@@ -1,5 +1,10 @@
 # Applescript
-Various Applescripts of ordinary tasks such as getting the current script's file path.  
+Various Applescripts 
+
+## Scripts
+
+
+## File
 
 ## Usage
 Each script comes in two implementations: **verbose** and **one-liner's**
