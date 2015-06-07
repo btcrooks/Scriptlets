@@ -5,8 +5,8 @@ Various Applescripts for ordinary and not so ordinary tasks
 Each script comes in two implementations: **verbose** and **one-liner's**
 
 ## Tabel of Contents
-01. [Current Path](#Current Path): Return file path of where the script is currently located.
-02. [Administrator Privileges](#Administrator Privileges):
+01. [Current Path](#current-path): Return file path of where the script is currently located.
+02. [Administrator Privileges](#administrator-privileges):
 
 ## Current Path
 Filename: **01-current-path.scpt**
