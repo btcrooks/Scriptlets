@@ -6,9 +6,9 @@ Each script comes in two implementations: **verbose** and **one-liner's**
 
 ## Tabel of Contents
 01. [Current Path](#current-path): Return file path of where the script is currently located.
-02. [Administrator Privileges](#administrator-privileges):
+02. [Administrator Privileges](#administrator-privileges): Run a command with administraitor privleges.
 
-## Current Path
+### Current Path
 Filename: **01-current-path.scpt**
 ##### Verbose
 Verbose will be lexically longer. In this example we will tell Finder to say Hello.  
@@ -28,5 +28,5 @@ Some scripts use `log` to return data to the log. To view log messages, click on
 ![Applescript Log](https://copy.com/g7MOZC9TzEgwfNsR)
 
 -------
-## Administrator Privileges
-Filename: **01-current-path.scpt**
+### Administrator Privileges
+Filename: **02-admin-privileges.scpt**
