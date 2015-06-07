@@ -1,5 +1,5 @@
 # Applescript
-Various Applescripts 
+Various Applescripts for ordinary and not so ordinary tasks
 
 ## Usage
 Each script comes in two implementations: **verbose** and **one-liner's**
