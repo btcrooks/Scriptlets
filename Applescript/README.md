@@ -1,14 +1,15 @@
 # Applescript
 Various Applescripts 
 
-## Scripts
-
-
-## File
-
 ## Usage
 Each script comes in two implementations: **verbose** and **one-liner's**
 
+## Tabel of Contents
+* [Current Path: (01-current-path.scpt)](#currentpath)
+
+
+## CurrentPath
+Filename: **01-current-path.scpt**
 ##### Verbose
 Verbose will be lexically longer. In this example we will tell Finder to say Hello.  
 ```
