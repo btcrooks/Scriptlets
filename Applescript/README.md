@@ -18,7 +18,7 @@ tell application "Finder"
 end tell
 ```
 ##### One-liner
-One-liners are what their name's suggest: an operation in one line. Following the example above, let's tell Finder to say Hello in a single line.  
+One-liners are what their name's suggest: an operation in one line. Following the example above, let's tell Finder to say 'Hello' in a single line.  
 ```
 tell application "Finder" to say "Hello"
 ```
