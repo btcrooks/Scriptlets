@@ -1,6 +1,6 @@
 #!/usr/bin/osascript
 
---Get script's file path
+-- Retrive the script's current directory
 
 -- --Verbose
 tell application "Finder"
