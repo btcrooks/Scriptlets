@@ -1,8 +1,9 @@
 #!/usr/bin/env bash
 #
-# Reset safar and all of it's prefrences
-# Original script by Sean's Help Desk:
+# @author: Sean's Help Desk:
 # http://seanscus.blogspot.com/2012/08/completely-reset-safari.html
+# @description: Reset safar and all of it's prefrences
+#
 
 {
   # back up Safari lib (just in case)
