@@ -1,5 +1,5 @@
 # Scriptlets
-Various scripts to get the job done
+Various scripts for ordinary and not so ordinary tasks.
 
 ### Usage
 Each language comes with instructions and examples for implementation.
