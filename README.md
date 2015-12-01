@@ -5,5 +5,6 @@ Various scripts to get the job done
 Each language comes with instructions and examples for implementation.
 
 ## Tabel of Contents
-01. [Current Path](#current-path): Return file path of where the script is currently located.
+#### [Applescript](Applescript)
+01. [Current Path](Applescript/01-current-path.scpt): Return file path of where the script is currently located.
 02. [Administrator Privileges](#administrator-privileges): Run a command with administraitor privleges.
