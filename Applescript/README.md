@@ -13,24 +13,15 @@ end tell
 ```
 
 ##### One-liner
-
 One-liners are what their name's suggest: an operation in one line. Following the example above, let's tell Finder to say **Hello** in a single line.  
 ```
 tell application "Finder" to say "Hello"
 ```
 
 ##### Additional Info
-
 Some scripts use `log` to return data to the log. To view log messages, click on the log icon (third icon from the bottom left of the window) followed by the 'Messages' tab. Your screen should look like this:
 ![Applescript Log](https://copy.com/g7MOZC9TzEgwfNsR)
+
 ## Tabel of Contents
-01. [Current Path](#current-path): Return file path of where the script is currently located.
+01. [Current Path](01-current-path.scpt): Return file path of where the script is currently located.
 02. [Administrator Privileges](#administrator-privileges): Run a command with administraitor privleges.
-
-### Current Path
-Filename: **01-current-path.scpt**
-
-
--------
-### Administrator Privileges
-Filename: **02-admin-privileges.scpt**
