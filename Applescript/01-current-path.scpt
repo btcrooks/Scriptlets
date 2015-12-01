@@ -1,8 +1,8 @@
 #!/usr/bin/osascript
-(*
-* @author: Brandon Crooks
-* @description:
-*)
+--
+-- @author: Brandon Crooks
+-- @description:
+--
 
 ---------------------------------------------
 -- Retrive the script's current directory
